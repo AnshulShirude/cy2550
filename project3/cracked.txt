@@ -39,9 +39,9 @@ whiteenthor:Simulacra3
 aralmoni:Gladys4
 tuchillpro:Veliferous7
 carotiended:busway
-makiomed:$1$er$Q9uid0VeKEJ29Rnf54Z/B/:banana
-dunawitec:$1$Ua$fqaIUjvSgFloDg6bQYRPt0:pass
-keymialia:$1$dG$e5EsjBMzRtnFWgL09Gm6o0:gEEW
-forbonatum:$1$e1$3ZPCBgey/JzhvSz1van/81:AEPV
+makiomed:banana
+dunawitec:pass
+keymialia:gEEW
+forbonatum:AEPV
 
 45 password hashes cracked, 5 left
